@@ -1,0 +1,2 @@
+# MyDocs
+Having docs
